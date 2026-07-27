@@ -1,5 +1,17 @@
 [
   {
+    "id": "rec_1785187201943",
+    "name": "Jack Lamorte",
+    "plate": "",
+    "phone": "",
+    "job": "GUNSHOP",
+    "location": "",
+    "note": "",
+    "photoUrl": null,
+    "createdAt": "28.07.2026 00:20:01",
+    "updatedAt": "28.07.2026 00:20:01"
+  },
+  {
     "id": "rec_1785186799849",
     "name": "Pedro Marino",
     "plate": "",
