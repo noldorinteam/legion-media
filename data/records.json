@@ -1,5 +1,17 @@
 [
   {
+    "id": "rec_1785177096619",
+    "name": "ewqewqew",
+    "plate": "QEWQEQWE",
+    "phone": "wqeqwe",
+    "job": "wqeqweqwewq",
+    "location": "ewqewqe",
+    "note": "wqewqewqewqeq",
+    "photoUrl": "https://raw.githubusercontent.com/noldorinteam/legion-media/main/data/photos/1785177095277.jpg",
+    "createdAt": "27.07.2026 21:31:36",
+    "updatedAt": "27.07.2026 21:31:36"
+  },
+  {
     "id": "rec_1785176407041",
     "name": "Varg Vikerness",
     "plate": "-",
@@ -18,7 +30,7 @@
     "phone": "64564894964",
     "job": "polis",
     "location": "vinewood",
-    "note": "Åunu Åunu yaptÄ± araÃ§larÄ± bÃ¶yle ÅÃ¶yle",
+    "note": "şunu şunu yaptı araçları böyle şöyle",
     "photoUrl": "https://raw.githubusercontent.com/noldorinteam/legion-media/main/data/photos/1785175745794.png",
     "createdAt": "27.07.2026 21:09:08",
     "updatedAt": "27.07.2026 21:09:08"
