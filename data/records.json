@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "rec_1785175748281",
+    "name": "jhon doe",
+    "plate": "34 EWQEWQ 5454",
+    "phone": "64564894964",
+    "job": "polis",
+    "location": "vinewood",
+    "note": "şunu şunu yaptı araçları böyle şöyle",
+    "photoUrl": "https://raw.githubusercontent.com/noldorinteam/legion-media/main/data/photos/1785175745794.png",
+    "createdAt": "27.07.2026 21:09:08",
+    "updatedAt": "27.07.2026 21:09:08"
+  }
+]
