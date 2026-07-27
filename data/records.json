@@ -1,15 +1,15 @@
 [
   {
     "id": "rec_1785188653934",
-    "name": "Alex",
+    "name": "Alex Drax",
     "plate": "",
     "phone": "2052403091",
     "job": "Makanik - İrish cafe",
     "location": "Malikhane : ?",
     "note": "Luvia aillesinin bossu",
-    "photoUrl": null,
+    "photoUrl": "https://raw.githubusercontent.com/noldorinteam/legion-media/main/data/photos/1785190171194.png",
     "createdAt": "28.07.2026 00:44:13",
-    "updatedAt": "28.07.2026 00:44:13"
+    "updatedAt": "28.07.2026 01:09:32"
   },
   {
     "id": "rec_1785187201943",
