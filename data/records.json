@@ -1,17 +1,5 @@
 [
   {
-    "id": "rec_1785177276123",
-    "name": "yunus",
-    "plate": "",
-    "phone": "",
-    "job": "",
-    "location": "",
-    "note": "",
-    "photoUrl": null,
-    "createdAt": "27.07.2026 21:34:36",
-    "updatedAt": "27.07.2026 21:34:36"
-  },
-  {
     "id": "rec_1785177268852",
     "name": "ali mehmet",
     "plate": "",
@@ -34,18 +22,6 @@
     "photoUrl": null,
     "createdAt": "27.07.2026 21:34:21",
     "updatedAt": "27.07.2026 21:34:21"
-  },
-  {
-    "id": "rec_1785177227133",
-    "name": "ewqeq",
-    "plate": "EWQEWQ",
-    "phone": "wqewqewqe",
-    "job": "ewqewqe",
-    "location": "wqewqewq",
-    "note": "ewqewqewq",
-    "photoUrl": "https://raw.githubusercontent.com/noldorinteam/legion-media/main/data/photos/1785177220750.gif",
-    "createdAt": "27.07.2026 21:33:47",
-    "updatedAt": "27.07.2026 21:33:47"
   },
   {
     "id": "rec_1785177096619",
