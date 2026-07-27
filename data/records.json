@@ -1,5 +1,17 @@
 [
   {
+    "id": "rec_1785188653934",
+    "name": "Alex",
+    "plate": "",
+    "phone": "2052403091",
+    "job": "Makanik - İrish cafe",
+    "location": "Malikhane : ?",
+    "note": "Luvia aillesinin bossu",
+    "photoUrl": null,
+    "createdAt": "28.07.2026 00:44:13",
+    "updatedAt": "28.07.2026 00:44:13"
+  },
+  {
     "id": "rec_1785187201943",
     "name": "Jack Lamorte",
     "plate": "",
