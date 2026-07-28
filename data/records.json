@@ -1,5 +1,17 @@
 [
   {
+    "id": "rec_1785242853340",
+    "name": "Fabrico Leo",
+    "plate": "-",
+    "phone": "-",
+    "job": "Mekanik",
+    "location": "-",
+    "note": "Sicap, beyaz takım elbise ve mavi bir spor motor ile geziniyor",
+    "photoUrl": "https://raw.githubusercontent.com/noldorinteam/legion-media/main/data/photos/1785242850352.png",
+    "createdAt": "28.07.2026 15:47:33",
+    "updatedAt": "28.07.2026 15:47:33"
+  },
+  {
     "id": "rec_1785241214480",
     "name": "Thomas Smith",
     "plate": "-",
