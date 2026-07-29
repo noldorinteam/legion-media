@@ -1,0 +1,33 @@
+[
+  {
+    "id": "chain_1785361662013_6d0290",
+    "title": "ewqewq",
+    "nodes": [
+      {
+        "id": "node_1785361664159_8fb130",
+        "type": "event",
+        "title": "ewqewq",
+        "detail": "ewqewq",
+        "x": 35,
+        "y": 35
+      },
+      {
+        "id": "node_1785361666890_436921",
+        "type": "event",
+        "title": "ewq",
+        "detail": "xdxdxd",
+        "x": 517,
+        "y": 29
+      }
+    ],
+    "edges": [
+      {
+        "id": "edge_1785361669170_40c314",
+        "from": "node_1785361664159_8fb130",
+        "to": "node_1785361666890_436921"
+      }
+    ],
+    "createdAt": "2026-07-29T21:47:42.013Z",
+    "updatedAt": "2026-07-29T23:24:07.470Z"
+  }
+]
