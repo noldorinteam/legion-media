@@ -1,5 +1,17 @@
 [
   {
+    "id": "rec_1785518863745",
+    "name": "Dean Anarchy",
+    "plate": "6DQ273GX",
+    "phone": "",
+    "job": "İşsiz",
+    "location": "",
+    "note": "Sakura Anarchynin eşi olabilir veya kardeşi.",
+    "photoUrl": "https://raw.githubusercontent.com/noldorinteam/legion-media/main/data/photos/1785518861709.png",
+    "createdAt": "31.07.2026 20:27:43",
+    "updatedAt": "31.07.2026 20:27:43"
+  },
+  {
     "id": "rec_1785518209780",
     "name": "Marcus Holloway",
     "plate": "",
