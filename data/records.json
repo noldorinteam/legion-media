@@ -1,5 +1,17 @@
 [
   {
+    "id": "rec_1785517788661",
+    "name": "Ace West",
+    "plate": "",
+    "phone": "",
+    "job": "Mechanic",
+    "location": "Bennys",
+    "note": "",
+    "photoUrl": "https://raw.githubusercontent.com/noldorinteam/legion-media/main/data/photos/1785517787414.png",
+    "createdAt": "31.07.2026 20:09:48",
+    "updatedAt": "31.07.2026 20:09:48"
+  },
+  {
     "id": "rec_1785242853340",
     "name": "Fabrico Leo",
     "plate": "-",
