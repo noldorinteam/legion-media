@@ -1,5 +1,17 @@
 [
   {
+    "id": "rec_1785517810214",
+    "name": "Drake Cruz",
+    "plate": "",
+    "phone": "",
+    "job": "Mekanik",
+    "location": "Bennys",
+    "note": "",
+    "photoUrl": "https://raw.githubusercontent.com/noldorinteam/legion-media/main/data/photos/1785517809095.png",
+    "createdAt": "31.07.2026 20:10:10",
+    "updatedAt": "31.07.2026 20:10:10"
+  },
+  {
     "id": "rec_1785517788661",
     "name": "Ace West",
     "plate": "",
