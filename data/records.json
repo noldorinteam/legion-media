@@ -1,5 +1,17 @@
 [
   {
+    "id": "rec_1785607515853",
+    "name": "Zane Martinez",
+    "plate": "",
+    "phone": "",
+    "job": "LS Mekanik",
+    "location": "",
+    "note": "",
+    "photoUrl": "https://raw.githubusercontent.com/noldorinteam/legion-media/main/data/photos/1785607514707.png",
+    "createdAt": "01.08.2026 21:05:15",
+    "updatedAt": "01.08.2026 21:05:15"
+  },
+  {
     "id": "rec_1785607491476",
     "name": "Ricky Wayne",
     "plate": "",
