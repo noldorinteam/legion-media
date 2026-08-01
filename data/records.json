@@ -1,5 +1,17 @@
 [
   {
+    "id": "rec_1785607491476",
+    "name": "Ricky Wayne",
+    "plate": "",
+    "phone": "",
+    "job": "LS MECANİC",
+    "location": "",
+    "note": "",
+    "photoUrl": "https://raw.githubusercontent.com/noldorinteam/legion-media/main/data/photos/1785607490157.png",
+    "createdAt": "01.08.2026 21:04:51",
+    "updatedAt": "01.08.2026 21:04:51"
+  },
+  {
     "id": "rec_1785607450562",
     "name": "Monta Losma",
     "plate": "",
