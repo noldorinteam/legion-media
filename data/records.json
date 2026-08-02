@@ -1,5 +1,17 @@
 [
   {
+    "id": "rec_1785696917070",
+    "name": "Tuco Salamanca",
+    "plate": "",
+    "phone": "",
+    "job": "",
+    "location": "",
+    "note": "",
+    "photoUrl": "https://raw.githubusercontent.com/noldorinteam/legion-media/main/data/photos/1785696915982.png",
+    "createdAt": "02.08.2026 21:55:17",
+    "updatedAt": "02.08.2026 21:55:17"
+  },
+  {
     "id": "rec_1785696884392",
     "name": "Sergio Alonso",
     "plate": "",
