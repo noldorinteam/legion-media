@@ -1,5 +1,17 @@
 [
   {
+    "id": "rec_1785696884392",
+    "name": "Sergio Alonso",
+    "plate": "",
+    "phone": "",
+    "job": "mekanik",
+    "location": "ss",
+    "note": "",
+    "photoUrl": "https://raw.githubusercontent.com/noldorinteam/legion-media/main/data/photos/1785696882994.png",
+    "createdAt": "02.08.2026 21:54:44",
+    "updatedAt": "02.08.2026 21:54:44"
+  },
+  {
     "id": "rec_1785607515853",
     "name": "Zane Martinez",
     "plate": "",
