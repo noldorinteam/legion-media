@@ -1,5 +1,17 @@
 [
   {
+    "id": "rec_1785952914254",
+    "name": "Mateo Stone",
+    "plate": "",
+    "phone": "",
+    "job": "mekanık",
+    "location": "",
+    "note": "",
+    "photoUrl": "https://raw.githubusercontent.com/noldorinteam/legion-media/main/data/photos/1785952912724.png",
+    "createdAt": "05.08.2026 21:01:54",
+    "updatedAt": "05.08.2026 21:01:54"
+  },
+  {
     "id": "rec_1785848448312",
     "name": "Lucas Weynn",
     "plate": "66HML194",
